@@ -6,4 +6,4 @@ Storyboard, userflow, sketch, protoype - 3 personas;
 3. Secondary Persona - Martin Romeo - prototype for photo recognition: https://www.figma.com/file/hzECpXAAciHQFc0T9zhaGJ/Secondary-Persona---Story-Board%2C-User-Flow%2C-Sketch-and-Prototype?type=design&node-id=1-2&t=kxANjrPQNPdz0CzN-0
 
 Video presentation:
-https://www.transfernow.net/dl/20230531NMnl87fz
+https://veed.io/view/327a9165-0ad3-4e5b-b622-ae9efa4b4e24
